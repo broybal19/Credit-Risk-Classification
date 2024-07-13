@@ -1,0 +1,19 @@
+Overview of the Analysis
+The purpose of this analysis is to predict if a loan is healthy or high-risk by evaluating a logistic regression model 
+
+Results
+Logistic Regression Model Analysis
+Accuracy: 0.99
+
+Healthy Loans-r
+Precision: 1.00
+Recall: 0.99 
+F1-score: 1
+
+High-Risk Loans
+Precision: 0.85  
+Recall: 0.91 
+F1-score: 0.88
+
+Summary
+The model used showes accuracy in predicting credit risk. The accuracy is better at predicting Healthy loans over High-Risk loan but is still very effective. 
